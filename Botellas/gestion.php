@@ -68,7 +68,7 @@
 
         
         <a href="repCli.php">Reporte de clientes</a>
-        <a href="index.php">Registro de pedido</a>
+        <a href="main.php">Registro de pedido</a>
         <a href="registro.php">Registro de clientes</a>
         <table border="1" >
                 <thead>
