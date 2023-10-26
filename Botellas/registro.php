@@ -51,7 +51,7 @@ initial-scale=1.0">
             </div>
             <!-- Botón para calcular -->
             <button type="button" class="btn btn-primary" id="registrar-btn">Calcular</button>
-            <a href="index.php">Registro de pedido</a>
+            <a href="main.php">Registro de pedido</a>
             <a href="gestion.php">Gestionar clientes</a>
         </form>
         
